@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spaceship/static/css/main.512a95f5.css",
+    "main.js": "/spaceship/static/js/main.2e6c8582.js",
+    "index.html": "/spaceship/index.html",
+    "main.512a95f5.css.map": "/spaceship/static/css/main.512a95f5.css.map",
+    "main.2e6c8582.js.map": "/spaceship/static/js/main.2e6c8582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.512a95f5.css",
+    "static/js/main.2e6c8582.js"
+  ]
+}
